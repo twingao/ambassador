@@ -65,7 +65,7 @@ Module可以以CRDs方式定义。
       selector:
         service: ambassador
 
-实验环境接上节[Ambassador系列-01-介绍、安装和使用](01-introduction.md)。
+实验环境接上节[Ambassador系列-01-介绍、安装和使用](01-installation-introduction.md)。
 
 下面举一例子，Ambassador支持在每个请求上运行内联Lua脚本的功能。 例如添加自定义的报文头。
 
