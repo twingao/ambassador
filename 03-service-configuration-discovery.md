@@ -10,7 +10,7 @@ Ambassador提供了三种服务配置方法。
 
 ### CRDs方式
 
-[Ambassador系列-01-介绍、安装和使用](01-introduction.md)一节中使用的就是CRDs方式，路由规则都定义在Mapping CRD中。
+[Ambassador系列-01-介绍、安装和使用](01-installation-introduction.md)一节中使用的就是CRDs方式，路由规则都定义在Mapping CRD中。
 
     ---
     apiVersion: getambassador.io/v1
