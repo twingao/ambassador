@@ -110,7 +110,7 @@ Authservice使用外部服务来实现身份验证和授权。简单来说，Cli
 	
 	kubectl apply -f auth-server-authservice.yaml
 
-假设echo服务已经被部署，否则请参考[Ambassador系列-01-介绍、安装和使用](01-introduction.md)。现在继续访问echo服务。
+假设echo服务已经被部署，否则请参考[Ambassador系列-01-介绍、安装和使用](01-installation-introduction.md)。现在继续访问echo服务。
 
 	#没有携带username和password参数，禁止访问
 	curl -i "http://192.168.1.50/foo"
