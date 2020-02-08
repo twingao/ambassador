@@ -208,3 +208,5 @@ Ambassador服务定义为[scheme://]service[.namespace][:port]
 [Ambassador系列-09-AuthService认证服务](09-authservice.md)
 
 [Ambassador系列-10-RateLimitService限速服务](10-ratelimitservice.md)
+
+[Ambassador系列-11-Helm安装Ambassador Edge Stack 1.1.0](11-ambassador-edge-stack-helm-installation.md)

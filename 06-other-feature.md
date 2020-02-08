@@ -438,3 +438,5 @@ echo-v1的权重为90，echo-v2的权重为10，测试可以发现基本符合�
 [Ambassador系列-09-AuthService认证服务](09-authservice.md)
 
 [Ambassador系列-10-RateLimitService限速服务](10-ratelimitservice.md)
+
+[Ambassador系列-11-Helm安装Ambassador Edge Stack 1.1.0](11-ambassador-edge-stack-helm-installation.md)
